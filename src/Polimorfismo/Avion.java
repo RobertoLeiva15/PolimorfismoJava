@@ -1,6 +1,6 @@
 package Polimorfismo;
 
-public class Avion extends Transporte { //heredad de transporte
+public class Avion extends Transporte { //hereda de transporte
 
 	@Override
 	public void moverse() {
